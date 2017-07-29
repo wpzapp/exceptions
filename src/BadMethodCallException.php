@@ -1,6 +1,6 @@
 <?php
 /**
- * WP-ZAPP exceptions for libraries and modules.
+ * WP-ZAPP exceptions for modules and libraries.
  *
  * @package WPZAPP\Exceptions
  * @license GPL-3.0

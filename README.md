@@ -6,4 +6,4 @@
 
 # WP-ZAPP: Exceptions
 
-Set of exceptions for WP-ZAPP libraries and modules.
+Set of exceptions for WP-ZAPP modules and libraries.

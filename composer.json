@@ -1,6 +1,6 @@
 {
   "name": "wpzapp/exceptions",
-  "description": "Set of exceptions for WP-ZAPP libraries and modules.",
+  "description": "Set of exceptions for WP-ZAPP modules and libraries.",
   "version": "1.0.0",
   "type": "wpzapp-lib",
   "license": "GPL-3.0",
