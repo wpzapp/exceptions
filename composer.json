@@ -1,0 +1,37 @@
+{
+  "name": "wpzapp/exceptions",
+  "description": "Set of exceptions for WP-ZAPP libraries and modules.",
+  "version": "1.0.0",
+  "type": "wpzapp-lib",
+  "license": "GPL-3.0",
+  "keywords": [
+    "wpzapp",
+    "wordpress",
+    "exceptions"
+  ],
+  "homepage": "https://wpzapp.org",
+  "authors": [
+    {
+      "name": "Felix Arntz",
+      "email": "felix-arntz@leaves-and-love.net",
+      "homepage": "https://leaves-and-love.net",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/wpzapp/exceptions/issues"
+  },
+  "autoload": {
+    "psr-4": {
+      "WPZAPP\\Exceptions\\": "src"
+    }
+  },
+  "require": {
+    "php": "^7.0",
+    "wpzapp/installer": "dev-master"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "6.2.*",
+    "codeclimate/php-test-reporter": "dev-master"
+  }
+}
